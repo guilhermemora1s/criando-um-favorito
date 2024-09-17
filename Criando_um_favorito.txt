@@ -1,0 +1,8 @@
+#Para criar favoritos no menu Inicial do SAP  
+
+
+Favoritos > seleciona adicionar transação   
+
+Para criar uma pasta nos favoritos:  
+
+Favoritos > adicionar um folder  
